@@ -11,23 +11,23 @@
     
 
 ### Contact On:
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/shahinaalam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://discordapp.com/users/1121657284288856205" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   </a>
   &nbsp;
   <a href="https://twitter.com/ShahinAlam_1" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
   &nbsp;
   <a href="mailto:shahinabrar33@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
-</div>
+</p>
 ## test
 <div>
   <a href="https://www.linkedin.com/in/shahinaalam/" target="_blank">
