@@ -73,14 +73,11 @@
 
 ### Current Stats:
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahin-alam-dev&theme=tokyonight" alt="GitHub Profile Details" height="180"/>
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahin-alam-dev&theme=tokyonight" alt="Top Languages" height="180"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahin-alam-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahin-alam-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
 
 
