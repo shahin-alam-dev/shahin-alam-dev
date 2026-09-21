@@ -73,7 +73,14 @@
 
 ### Current Stats:
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahinexy)](https://github.com/anuraghazra/github-readme-stats)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahinexy&show_icons=true)      
+<p align="center">
+  <img src="https://github-readme-stats.salesp07.workers.dev/api?username=shahinexy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.salesp07.workers.dev/api/top-langs/?username=shahinexy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahinexy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>   
 
 
 
