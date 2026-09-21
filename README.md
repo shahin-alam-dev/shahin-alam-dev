@@ -82,11 +82,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahin-alam-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahin-alam-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahin-alam-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>  
-
 
 
 
