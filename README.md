@@ -74,12 +74,12 @@
 ### Current Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.salesp07.workers.dev/api?username=shahinexy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.salesp07.workers.dev/api/top-langs/?username=shahinexy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.salesp07.workers.dev/api?username=shahin-alam-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.salesp07.workers.dev/api/top-langs/?username=shahin-alam-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahinexy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahin-alam-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>   
 
 
